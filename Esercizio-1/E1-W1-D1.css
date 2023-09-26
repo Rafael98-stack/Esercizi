@@ -1,0 +1,23 @@
+#tabella {
+    width: 50vh;
+    height: 100%;
+    border: solid;
+   
+}
+#titolo-tabella {
+   
+    margin: 5px;
+    border: solid;
+
+   
+}
+#h5 {
+    margin: 5px;
+    border: solid;
+}
+   
+
+section {
+    margin: 5px;
+    border: solid;
+}
